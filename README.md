@@ -5,3 +5,4 @@ color detection is an excellent data analytics project and an interactive applic
 ![pic2](https://github.com/user-attachments/assets/73464f2d-0738-44e1-b347-42bb7b31a7fe)
 ![pic3](https://github.com/user-attachments/assets/bb940497-a877-4d1a-bc0e-5edba7967794)
 
+
